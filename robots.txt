@@ -4,3 +4,4 @@ Allow: /
 Sitemap: https://sujeito-operator.github.io/sitemap.xml
 Sitemap: https://sujeito-operator.github.io/gumroad-market-data/sitemap.xml
 Sitemap: https://sujeito-operator.github.io/vscode-marketplace-data/sitemap.xml
+Sitemap: https://sujeito-operator.github.io/ai-contribution-policy/sitemap.xml
